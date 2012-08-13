@@ -1,0 +1,22 @@
+h1. yet another nyancat
+
+This is just a fun litle project that allows to have a nyancat run over a website when a certain key combination has been pressed. Right now it's five times the Shift key, but this could be changed quite easily.
+
+It makes use of jquery, the nyancat image, and the sound (both ogg and mp3).
+
+It should be as easy as inclusion of the following line at the end of your web page:
+
+<pre>
+<script type="text/javascript" src="http://wherever.org/nc.js"></script>
+</pre>
+
+You will have to change one line in the @nc.js@ script as I haven't figured out how to use the script's location instead of the including page's location.  See line 5:
+
+<pre>
+var url = 'http://nc';
+</pre>
+
+Obviously, you'll need to set this to something that exists.
+
+
+That's all folks!
