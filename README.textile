@@ -18,6 +18,6 @@ var url = 'http://nc';
 
 Obviously, you'll need to set this to something that exists.
 
-Oh, have a look at this jsfiddle for an example: http://jsfiddle.net/LH3BM/embedded/result/
+Oh, have a look at this jsfiddle for an example: http://jsfiddle.net/LH3BM/3/embedded/result/
 
 That's all folks!
